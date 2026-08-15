@@ -40,7 +40,7 @@ Switch to [Card Names Page](https://github.com/SaxbyMod/SabyModEnums/wiki/Card-N
 | GrimoraRulebook    | Adds the sigil to the rulebook in Grimora’s part of Finale.                    |
 | MagnificusRulebook | Adds the sigil to the rulebook in Magnificus’ part of Finale.                  |
 | Part3BuildACard    | Allows the sigil to be chosen in the Build-A-Bot node in act 3.                |
-| AscensionUnlocked  | Not sure if this is used anywhere, but it exists within the Enums!             |
+| AscensionUnlocked  | The sigil is not learned by default in Kaycee's Mod             |
 
 ---
 
