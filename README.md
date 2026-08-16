@@ -22,25 +22,25 @@ Switch to [Card Names Page](https://github.com/SaxbyMod/SabyModEnums/wiki/Card-N
 
 ## Meta Categories
 
-| Value              | Description                                                                    |
-|--------------------|--------------------------------------------------------------------------------|
-| ChoiceNode         | Defines the card to be a choice option                                         |
-| GBCPack            | Can be acquired by buying a card pack in act 2                                 |
-| GBCPlayable        | Can show up in the card catalogue in act 2                                     |
-| Part3Random        | Can show up as card from the Loot sigil                                        |
-| Rare               | Defines the card to be rare                                                    |
-| TraderOffer        | Can show up at the trader in act 1                                             |
-| AscensionUnlock    | Not sure if this is used anywhere, but it exists within the Enums!             |
-|--------------------|--------------------------------------------------------------------------------|
-| Part1Rulebook      | Adds the sigil to the act 1 rulebook.                                          |
-| Part1Modular       | Allows the sigil to appear on totems, Wolf Pelt trades and Cave Trial rewards. |
-| Part3Rulebook      | Adds the sigil to the act 3 rulebook.                                          |
-| Part3Modular       | Allows the sigil to appear in the Upgrade node in act 3.                       |
-| BountyHunter       | Allows the sigil to appear on act 3 Bounty Hunter cards.                       |
-| GrimoraRulebook    | Adds the sigil to the rulebook in Grimora’s part of Finale.                    |
-| MagnificusRulebook | Adds the sigil to the rulebook in Magnificus’ part of Finale.                  |
-| Part3BuildACard    | Allows the sigil to be chosen in the Build-A-Bot node in act 3.                |
-| AscensionUnlocked  | The sigil is not learned by default in Kaycee's Mod             |
+| Value              | Description                                                                              |
+|--------------------|------------------------------------------------------------------------------------------|
+| ChoiceNode         | Defines the card to be a choice option                                                   |
+| GBCPack            | Can be acquired by buying a card pack in act 2                                           |
+| GBCPlayable        | Can show up in the card catalogue in act 2                                               |
+| Part3Random        | Can show up as card from the Loot sigil                                                  |
+| Rare               | Defines the card to be rare                                                              |
+| TraderOffer        | Can show up at the trader in act 1                                                       |
+| AscensionUnlock    | This card by default is marked as learned when used within Kaycee's Mod of Inscryption.  |
+|--------------------|------------------------------------------------------------------------------------------|
+| Part1Rulebook      | Adds the sigil to the act 1 rulebook.                                                    |
+| Part1Modular       | Allows the sigil to appear on totems, Wolf Pelt trades and Cave Trial rewards.           |
+| Part3Rulebook      | Adds the sigil to the act 3 rulebook.                                                    |
+| Part3Modular       | Allows the sigil to appear in the Upgrade node in act 3.                                 |
+| BountyHunter       | Allows the sigil to appear on act 3 Bounty Hunter cards.                                 |
+| GrimoraRulebook    | Adds the sigil to the rulebook in Grimora’s part of Finale.                              |
+| MagnificusRulebook | Adds the sigil to the rulebook in Magnificus’ part of Finale.                            |
+| Part3BuildACard    | Allows the sigil to be chosen in the Build-A-Bot node in act 3.                          |
+| AscensionUnlocked  | This sigil by default is marked as learned when used within Kaycee's Mod of Inscryption. |
 
 ---
 
