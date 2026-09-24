@@ -69,12 +69,12 @@ Switch to [Card Names Page](https://github.com/SaxbyMod/SabyModEnums/wiki/Card-N
 
 ## Complexity
 
-| Value        | Description                          |
-| ------------ | ------------------------------------ |
-| Vanilla      | Will always be a learned card        |
-| Simple       | Will always be an unlocked card      |
-| Intermediate | Will only be unlocked after tutorial |
-| Advanced     | Will only be unlocked after tutorial |
+| Value        | Description                           |
+| ------------ | ------------------------------------- |
+| Vanilla      | Will always be a learned card         |
+| Simple       | Will always be an unlocked card       |
+| Intermediate | Will only be unlocked after tutorial1 |
+| Advanced     | Will only be unlocked after tutorial2 |
 
 ---
 
