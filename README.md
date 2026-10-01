@@ -1604,7 +1604,7 @@ Notes: You can add your own region specific cards by adding the extended propert
 
 # Nevernameds Sigilarium
 
-Head Here: https://github.com/Nevernamed22/NevernamedsSigils/wiki
+Head Here: https://inscryptionmodding.wiki.gg/wiki/Nevernameds_Sigilarium
 
 ---
 
