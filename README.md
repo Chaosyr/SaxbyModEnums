@@ -27,7 +27,7 @@ Switch to [Card Names Page](https://github.com/SaxbyMod/SabyModEnums/wiki/Card-N
 | ChoiceNode         | Defines the card to be a choice option                                                   |
 | GBCPack            | Can be acquired by buying a card pack in act 2                                           |
 | GBCPlayable        | Can show up in the card catalogue in act 2                                               |
-| Part3Random        | Can show up as card from the Loot sigil                                                  |
+| Part3Random        | Can show up as card from the Gift Bearer sigil                                           |
 | Rare               | Defines the card to be rare                                                              |
 | TraderOffer        | Can show up at the trader in act 1                                                       |
 | AscensionUnlock    | This card by default is marked as learned when used within Kaycee's Mod of Inscryption.  |
